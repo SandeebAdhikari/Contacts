@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Contact</string>
+    <string name="appName">Contacts</string>
+    <string name="contactName">Jagat Jung Shahi</string>
+    <string name="contactName1">Emma Watson</string>
+    <string name="information">info</string>
+    <string name="ContactInfo">Contact Info</string>
+    <string name="Contact">Contact</string>
+    <string name="contactName2">Virat Koli</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Contact2">Contact</string>
+    <string name="Contact3">Contact</string>
+    <string name="phonebook">Phonebook Image</string>
+    <string name="JagatsInfo">Jagat\'s Info</string>
+    <string name="Name">Name:</string>
+    <string name="email">E-mail:</string>
+    <string name="phoneNumber">"Phone Number: "</string>
+    <string name="phoneNumbers">Phone Number:</string>
+    <string name="NewName">Name: Jagat Jung Shahi</string>
+    <string name="Newemail">Email: Jagatjungsahi11@gmail.com</string>
+    <string name="newphonenumber">Phone Number: +19840066963</string>
+    <string name="Jagatjungshahiphoto">JagatJungShahiPhoto</string>
+    <string name="openbookImg">OpenBooKImage</string>
+    <string name="EmmaInfo">Emma\'s Info</string>
+    <string name="emmapicture">EmmaPicture</string>
+    <string name="EmmaName">Name: Emma Watson</string>
+    <string name="EmmaPhoneNumber">Phone Number: +16879645687</string>
+    <string name="EmmaEmail">Email: emma1994@gmail.com</string>
+    <string name="ViratInfo">Virat\'s Info</string>
+    <string name="ViratPicture">ViratPicture</string>
+    <string name="ViratName">Name: Virat Koli</string>
+    <string name="ViratEmail">Email: viranuska@gmail.com</string>
+    <string name="ViratPhone">Phone Number: +19858022361</string>
+
+</resources>
